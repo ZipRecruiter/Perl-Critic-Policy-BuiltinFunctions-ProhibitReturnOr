@@ -53,6 +53,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/ZipRecruiter/Perl-Critic-Policy-BuiltinFunctions-ProhibitReturnOr/issues"
+      },
+      "homepage" : "https://github.com/ZipRecruiter/Perl-Critic-Policy-BuiltinFunctions-ProhibitReturnOr",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/ZipRecruiter/Perl-Critic-Policy-BuiltinFunctions-ProhibitReturnOr.git",
+         "web" : "https://github.com/ZipRecruiter/Perl-Critic-Policy-BuiltinFunctions-ProhibitReturnOr"
+      }
+   },
    "version" : "0.01",
    "x_contributors" : [
       "Jeremy Leader <jleader@alumni.caltech.edu>"
